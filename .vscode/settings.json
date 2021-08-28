@@ -19,10 +19,22 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
-  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.path": "${currentFileDir}/images/",  
   "pasteImage.showFilePathConfirmInputBox": true,
+  "pasteImage.defaultName": "${currentFileNameWithoutExt}-HHmmss",
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "foam.graph.style": {
+    "background": "#1d2021",
+    "fontSize": 12,
+    "highlightedForeground": "silver",
+    "node": {
+        "note": "beige",
+        "placeholder": "#665c54",
+        "journal": "red",
+        "blog": "green",
+    }
+  },
 }
