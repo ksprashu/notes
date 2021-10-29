@@ -37,4 +37,5 @@
         "blog": "green",
     }
   },
+  "gitdoc.enabled": true,
 }

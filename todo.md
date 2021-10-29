@@ -1,9 +1,9 @@
 # Todo
 
-You can create todos in Foam.
-
-- [x] This is an example of a todo list item that's complete
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
-
+- [ ] Auto publish `Roam` journal notes into `blog.prashu.com`.
+- [ ] Set-up `blog.prashu.com` using #jekyll and #github-pages.
+- [ ] Create a mobile frontend using `React Native` to upload notes on the move.
+- [x] ~~Publish journal entries to twitter.~~
+- [ ] How to create a blog section on Foam?
+- [ ] Auto publish to medium when I write a blog on Foam
+- [ ] 
